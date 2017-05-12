@@ -14,18 +14,6 @@
         data(){
             return {};
         },
-        // created(){
-        //     console.log('created',this.$refs);
-        // },
-        // beforeCompile(){
-        //     console.log('beforeCompiled',this.$refs);
-        // },
-        // compiled(){
-        //     console.log('Compiled',this.$refs);
-        // },
-        // ready(){
-        //     console.log('ready',this.$refs);
-        // },
         created: function () { 
             //在实例创建之后同步调用。此时实例已经结束解析选项，这意味着已建立：数据绑定，计算属性，方法，watcher/事件回调。
             //但是还没有开始 DOM 编译，$el 还不存在,但是实例存在,即this.a存在,可打印出来 。
