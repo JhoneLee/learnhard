@@ -1,0 +1,133 @@
+{
+    "respCode":"00",
+    "respMsg":"成功",
+    "result":{
+        "pageNo":1,
+        "pageSize":10,
+        "totalPage":2,
+        "totalCount":13,
+        "result":[
+            {
+                "remitStatus":1,
+                "remitTime":"2018-3-21 00:00:00",
+                "remitOrderId":"1234567890",
+                "productId":"12125232",
+                "productName":"科尔沁一期",
+                "productStatus":"1",
+                "dueTime":"2018-3-21 00:00:00",
+                "cashTime":"2018-3-25 00:00:00",
+                "planAmount":1000000,
+                "realAmount":1000000,
+                "trustInstitutionShopNo":1011120
+            },{
+                "remitStatus":1,
+                "remitTime":"2018-3-21 00:00:00",
+                "remitOrderId":"1234567890",
+                "productId":"12125232",
+                "productName":"科尔沁一期",
+                "productStatus":"2",
+                "dueTime":"2018-3-21 00:00:00",
+                "cashTime":"2018-3-25 00:00:00",
+                "planAmount":1000000,
+                "realAmount":1000000,
+                "trustInstitutionShopNo":1011120
+            },{
+                "remitStatus":0,
+                "remitTime":"2018-3-21 00:00:00",
+                "remitOrderId":"1234567890",
+                "productId":"12125232",
+                "productName":"科尔沁一期",
+                "productStatus":"1",
+                "dueTime":"2018-3-21 00:00:00",
+                "cashTime":"2018-3-25 00:00:00",
+                "planAmount":1000000,
+                "realAmount":1000000,
+                "trustInstitutionShopNo":1011120
+            },{
+                "remitStatus":1,
+                "remitTime":"2018-3-21 00:00:00",
+                "remitOrderId":"1234567890",
+                "productId":"12125232",
+                "productName":"科尔沁一期",
+                "productStatus":"2",
+                "dueTime":"2018-3-21 00:00:00",
+                "cashTime":"2018-3-25 00:00:00",
+                "planAmount":1000000,
+                "realAmount":1000000,
+                "trustInstitutionShopNo":1011120
+            },{
+                "remitStatus":0,
+                "remitTime":"2018-3-21 00:00:00",
+                "remitOrderId":"1234567890",
+                "productId":"12125232",
+                "productName":"科尔沁一期",
+                "productStatus":"2",
+                "dueTime":"2018-3-21 00:00:00",
+                "cashTime":"2018-3-25 00:00:00",
+                "planAmount":1000000,
+                "realAmount":1000000,
+                "trustInstitutionShopNo":1011120
+            },{
+                "remitStatus":1,
+                "remitTime":"2018-3-21 00:00:00",
+                "remitOrderId":"1234567890",
+                "productId":"12125232",
+                "productName":"科尔沁一期",
+                "productStatus":"2",
+                "dueTime":"2018-3-21 00:00:00",
+                "cashTime":"2018-3-25 00:00:00",
+                "planAmount":1000000,
+                "realAmount":1000000,
+                "trustInstitutionShopNo":1011120
+            },{
+                "remitStatus":1,
+                "remitTime":"2018-3-21 00:00:00",
+                "remitOrderId":"1234567890",
+                "productId":"12125232",
+                "productName":"科尔沁一期",
+                "productStatus":"2",
+                "dueTime":"2018-3-21 00:00:00",
+                "cashTime":"2018-3-25 00:00:00",
+                "planAmount":1000000,
+                "realAmount":1000000,
+                "trustInstitutionShopNo":1011120
+            },{
+                "remitStatus":2,
+                "remitTime":"2018-3-21 00:00:00",
+                "remitOrderId":"1234567890",
+                "productId":"12125232",
+                "productName":"科尔沁一期",
+                "productStatus":"2",
+                "dueTime":"2018-3-21 00:00:00",
+                "cashTime":"2018-3-25 00:00:00",
+                "planAmount":1000000,
+                "realAmount":1000000,
+                "trustInstitutionShopNo":1011120
+            },{
+                "remitStatus":1,
+                "remitTime":"2018-3-21 00:00:00",
+                "remitOrderId":"1234567890",
+                "productId":"12125232",
+                "productName":"科尔沁一期",
+                "productStatus":"2",
+                "dueTime":"2018-3-21 00:00:00",
+                "cashTime":"2018-3-25 00:00:00",
+                "planAmount":1000000,
+                "realAmount":1000000,
+                "trustInstitutionShopNo":1011120
+            },{
+                "remitStatus":2,
+                "remitTime":"2018-3-21 00:00:00",
+                "remitOrderId":"1234567890",
+                "productId":"12125232",
+                "productName":"科尔沁一期",
+                "productStatus":"2",
+                "dueTime":"2018-3-21 00:00:00",
+                "cashTime":"2018-3-25 00:00:00",
+                "planAmount":1000000,
+                "realAmount":1000000,
+                "trustInstitutionShopNo":1011120
+            }
+        ]
+    }
+}

@@ -14,8 +14,19 @@
     export default {
         data(){
             return {
-                items:routes
+                items:[]
             };
+        },
+        created(){
+            let reg=/:[0-9A-Za-z]+[^\/]/g;
+            this.items=routes.map((e)=>{
+                let str = e.name;
+                let obj = Object.assign({},e);
+                if(reg.test(str)){
+                    obj.name=str.replace(reg,'test');
+                }
+                return obj;
+            });
         }
     }
 </script>

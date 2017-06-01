@@ -1,0 +1,38 @@
+{
+    "respCode": "00",
+    "respMsg": "成功",
+    "pageNo":1,
+    "pageSize":10,
+    "totalCount":50,
+    "result": [
+        {
+            "sequenceNum": 1,
+            "userId": "2500290123",
+            "userName": "于龙辉",
+            "orderCtime": "2017-02-20 20:23:25",
+            "updateTime": "2017-02-20 20:24:08",
+            "orderType": 1,
+            "orderStatus": 3,
+            "paySuccessTime": "2017-02-20 20:24:08",
+            "orderAmount": 100,
+            "bankName": "中国银行",
+            "bankCardNum": "62264578****6785",
+            "orderFlowNum": "1702200823250914190",
+            "payOrderNum": "2017022010000010931111001002433",
+            "payOrderStatus": 1,
+            "channelOrderNum": "123123213213",
+            "channelName": "nuomi",
+            "merchantFullName": "科尔沁牛羊肉集团",
+            "productNames": [
+                "科尔沁九期",
+                "科尔沁八期"
+            ],
+            "isPublic": 1,
+            "goodsNames": [
+                "牛肉",
+                "土豆子",
+                "土豆烧牛肉"
+            ]
+        }
+    ]
+}
